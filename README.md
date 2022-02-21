@@ -9,6 +9,7 @@ Experienced in:
 - JavaScript
 - HTML
 - CSS
+
 Exposure to:
 - Rust
 - Python
