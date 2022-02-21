@@ -15,6 +15,8 @@ Exposure to:
 - Python
 - SQL
 - PHP
+
+(Also proficient with Linux!)
 ## Projects
 ### Current projects
 - Matrix inverse calculator (C++, HTML, CSS, JavaScript)
