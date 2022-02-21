@@ -15,7 +15,7 @@ I love math, and I find low-level programming really enjoyable. Optimizing code 
 - New York Times Spelling Bee Solver (I love the Spelling Bee game, and I'd love to come up with an interactive helper tool)
 ## Goals
 - Learn more about neural networks
-- Learn more tools and frameworks
+- Get better at coding in Rust
 - Have a really cool internship experience and apply my skills in a more applied setting
 - Learn guitar
 - Get better at Spanish
